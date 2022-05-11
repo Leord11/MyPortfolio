@@ -1,0 +1,1 @@
+{"version":3,"sourceRoot":"","sources":["../../scss/main.scss"],"names":[],"mappings":"AAGA,KACI,WAHY,KAIZ","file":"main.css","sourcesContent":["\r\n$primary-color: #444;\r\n\r\nbody {\r\n    background: $primary-color;\r\n    color: #fff;\r\n}"]}

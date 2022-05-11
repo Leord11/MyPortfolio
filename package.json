@@ -1,0 +1,14 @@
+{
+  "name": "my_portfolio",
+  "version": "1.0.0",
+  "description": "Responsive Portfolio",
+  "main": "index.js",
+  "scripts": {
+    "sass": "sass -w scss/main.scss  dist/css/main.css --style=compressed --embed-sources "
+  },
+  "author": "Rodel Leord",
+  "license": "ISC",
+  "dependencies": {
+    "sass": "^1.51.0"
+  }
+}
